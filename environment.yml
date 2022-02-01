@@ -1,0 +1,16 @@
+name: cmts_learn_olci
+channels:
+  - conda-forge
+  - cmts
+dependencies:
+  - conda-forge::python=3.9
+  - conda-forge::notebook
+  - conda-forge::xarray
+  - conda-forge::netcdf4
+  - conda-forge::shapely
+  - conda-forge::matplotlib
+  - conda-forge::cartopy
+  - conda-forge::jupyter_contrib_nbextensions
+  - cmts::hda
+  - cmts::eumartools
+#  - eumdac
