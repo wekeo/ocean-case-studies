@@ -1,7 +1,8 @@
-name: cmts_learn_olci
+name: cmts_ocean_case_studies
 channels:
   - conda-forge
   - cmts
+  - eumetsat
 dependencies:
   - conda-forge::python=3.9
   - conda-forge::notebook
@@ -11,6 +12,7 @@ dependencies:
   - conda-forge::matplotlib
   - conda-forge::cartopy
   - conda-forge::jupyter_contrib_nbextensions
+  - conda-forge::bokeh
   - cmts::hda
   - cmts::eumartools
-#  - eumdac
+  - eumetsat::eumdac
