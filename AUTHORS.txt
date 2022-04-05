@@ -5,13 +5,10 @@ EUMETSAT
 Ben Loveday (Innoflair UG)
 Hayley Evers-King (EUMETSAT)
 Aida Alvera-Azcarate (GHER)
-Vittorio Brando (CNR)
+Charles Troupin (GHER)
 Vinca Rosmorduc (CLS)
-Ana Ruescas (Brockmann Consult)
 
 # List of contributory authors
-Lauren Biermann (PML)
-Ollie Clements (PML)
 
 # Support
 For all queries on this software package, please contact ops@eumetsat.int

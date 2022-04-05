@@ -6,9 +6,15 @@ license_spdx: MIT
 date: 01-01-2022
  
 # Package IPR documentation
-license_text_file: LICENCE.txt
+license_text_file: LICENSE.txt
  
 # File(s) associated to this component
-about_resource: resource 1
-about_resource: resource 2
-about_resource: resource 3
+about_resource: ./AUTHORS.txt
+about_resource: ./Index.ipynb
+about_resource: ./LICENSE.txt
+about_resource: ./README.md
+about_resource: ./case_studies/UN_Ocean_Decade/Challenge01_marine_pollution/River_plot.ipynb
+about_resource: ./case_studies/UN_Ocean_Decade/Challenge02_ecosystems_and_biodiversity/GBR_plot.ipynb
+about_resource: ./case_studies/UN_Ocean_Decade/Challenge03_sustainable_food/Coastal_deoxygenation_South_African_red_tides_OLCI_spectral_plot.ipynb
+about_resource: ./environment.yml
+about_resource: ./ocean-case-studies.ABOUT
