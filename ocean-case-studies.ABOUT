@@ -4,7 +4,8 @@ description: Compendium of case studies developed by the CMTS
 copyright: 2022 EUMETSAT
 license_spdx: MIT
 date: 01-01-2022
- 
+home_url: https://gitlab.eumetsat.int/eumetlab/ocean/applications/ocean-case-studies
+
 # Package IPR documentation
 license_text_file: LICENSE.txt
  
