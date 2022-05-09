@@ -21,8 +21,3 @@ about_resource: ./environment.yml
 about_resource: ./ocean-case-studies.ABOUT
 
 # Notes:
-
-The images contained in the ./img/thumbs folder are generated using the 
-matplotlib tool. The matplotlib tool does not extend its license/copyright to 
-figures produced by the package. The figures are covered by the package IPR
-documentation as specified in the license text file.
