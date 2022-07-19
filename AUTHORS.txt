@@ -7,8 +7,10 @@ Hayley Evers-King (EUMETSAT)
 Aida Alvera-Azcarate (GHER)
 Charles Troupin (GHER)
 Vinca Rosmorduc (CLS)
+Arthur Capet (GHER)
 
 # List of contributory authors
+Marie Smith (CSIR); Challenge03_sustainable_food
 
 # Support
 For all queries on this software package, please contact ops@eumetsat.int
