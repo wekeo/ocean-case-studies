@@ -14,10 +14,8 @@ about_resource: ./AUTHORS.txt
 about_resource: ./Index.ipynb
 about_resource: ./LICENSE.txt
 about_resource: ./README.md
-about_resource: ./case_studies/UN_Ocean_Decade/Challenge01_marine_pollution/
-about_resource: ./case_studies/UN_Ocean_Decade/Challenge02_ecosystems_and_biodiversity/
-about_resource: ./case_studies/UN_Ocean_Decade/Challenge03_sustainable_food/Coastal_deoxygenation_South_African_red_tides_OLCI_spectral_plot.ipynb
+about_resource: ./Case_studies/UN_Ocean_Decade/Challenge01_marine_pollution/
+about_resource: ./Case_studies/UN_Ocean_Decade/Challenge02_ecosystems_and_biodiversity/Marine_heatwaves_intensification_threatens_coral_reef_health.ipynb
+about_resource: ./Case_studies/UN_Ocean_Decade/Challenge03_sustainable_food/Deoxygenation_impacts_marine_life_benguela.ipynb
 about_resource: ./environment.yml
 about_resource: ./ocean-case-studies.ABOUT
-
-# Notes:
