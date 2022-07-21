@@ -6,6 +6,3 @@
 	path = working-with-python
 	url = https://gitlab.eumetsat.int/eumetlab/oceans/ocean-training/tools/working-with-python.git
 	branch = main
-[submodule "marineHeatWaves"]
-	path = marineHeatWaves
-	url = https://github.com/ecjoliver/marineHeatWaves.git
