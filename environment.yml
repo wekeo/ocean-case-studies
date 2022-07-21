@@ -5,6 +5,7 @@ channels:
   - conda-forge
   - cmts
   - eumetsat
+  - coecms
 dependencies:
   - conda-forge::python=3.8
   - conda-forge::notebook
@@ -14,7 +15,7 @@ dependencies:
   - conda-forge::matplotlib
   - conda-forge::cartopy
   - conda-forge::jupyter_contrib_nbextensions
-  - conda-forge::bokeh
   - cmts::hda
   - cmts::eumartools
-  - cmts::eumdac
+  - eumetsat::eumdac
+  - coecms::xmhw
