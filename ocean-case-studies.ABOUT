@@ -1,6 +1,6 @@
 # Component information
 name: ocean-case-studies
-description: Compendium of case studies developed by the CMTS
+description: Compendium of case studies using EUMETSAT marine data
 copyright: 2022 EUMETSAT
 license_spdx: MIT
 date: 01-01-2022
@@ -11,11 +11,21 @@ license_text_file: LICENSE.txt
  
 # File(s) associated to this component
 about_resource: ./AUTHORS.txt
-about_resource: ./Index.ipynb
-about_resource: ./LICENSE.txt
-about_resource: ./README.md
 about_resource: ./Case_studies/UN_Ocean_Decade/Challenge01_marine_pollution/
 about_resource: ./Case_studies/UN_Ocean_Decade/Challenge02_ecosystems_and_biodiversity/Marine_heatwaves_intensification_threatens_coral_reef_health.ipynb
 about_resource: ./Case_studies/UN_Ocean_Decade/Challenge03_sustainable_food/Deoxygenation_impacts_marine_life_benguela.ipynb
+about_resource: ./Case_studies/UN_Ocean_Decade/Challenge04_sustainable_ocean_economy
+about_resource: ./Case_studies/UN_Ocean_Decade/Challenge05_ocean_solutions_climate_change
+about_resource: ./Case_studies/UN_Ocean_Decade/Challenge06_community_resilience
+about_resource: ./Case_studies/UN_Ocean_Decade/Challenge07_expand_GOOS
+about_resource: ./Case_studies/UN_Ocean_Decade/Challenge08_digital_representation_ocean
+about_resource: ./Case_studies/UN_Ocean_Decade/Challenge09_skills_knowledge_tech
+about_resource: ./Case_studies/UN_Ocean_Decade/Challenge10_humanitys_ocean_relationship
+about_resource: ./Case_studies/Thematic/Altimetry
+about_resource: ./Case_studies/Thematic/Ocean_colour
+about_resource: ./Case_studies/Thematic/Sea_surface_temperature
+about_resource: ./Index.ipynb
+about_resource: ./LICENSE.txt
+about_resource: ./README.md
 about_resource: ./environment.yml
 about_resource: ./ocean-case-studies.ABOUT

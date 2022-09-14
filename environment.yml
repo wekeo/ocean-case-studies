@@ -7,8 +7,8 @@ channels:
   - eumetsat
   - coecms
 dependencies:
-  - conda-forge::python=3.8
-  - conda-forge::notebook
+  - conda-forge::python=3.9
+  - conda-forge::notebook=6.4.12
   - conda-forge::xarray
   - conda-forge::netcdf4
   - conda-forge::shapely
