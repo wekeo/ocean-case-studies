@@ -36,13 +36,13 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 
 |item|version|licence|package info|
 |---|---|---|---|
-|python|3.8.13|PSF|https://docs.python.org/3/license.html|
+|python|3.9.13|PSF|https://docs.python.org/3/license.html|
 |xarray|0.21.1|Apache-2.0|https://anaconda.org/conda-forge/xarray|
 |netcdf4|1.5.8|MIT|https://anaconda.org/conda-forge/netcdf4|
 |shapely|1.8.0|BSD-3|https://anaconda.org/conda-forge/shapely|
 |matplotlib|3.5.1|PSFL|https://matplotlib.org/stable/users/project/license.html|
 |cartopy|0.20.2|LGPL-3|https://scitools.org.uk/cartopy/docs/latest/copyright.html|
-|notebook|6.4.8|BSD-3|https://anaconda.org/conda-forge/notebook|
+|notebook|6.4.12|BSD-3|https://anaconda.org/conda-forge/notebook|
 |jupyter_contrib_nbextensions|0.5.1|BSD-3|https://anaconda.org/conda-forge/jupyter_contrib_nbextensions|
 |ipywidgets|7.6.5|BSD-3|https://anaconda.org/conda-forge/ipywidgets|
 |scikit-image|0.19.1|BSD-3|https://anaconda.org/conda-forge/scikit-image|
@@ -79,7 +79,7 @@ This will make a local copy of all the relevant files.
 
 ## Usage
 
-This collection supports Python 3.8. Although many options are possible, the 
+This collection supports Python 3.9. Although many options are possible, the 
 authors highly recommend that users install the appropriate Anaconda package 
 for their operating system. In order to ensure that you have all the required 
 dependencies, we recommend that you build a suitable Python environment, as 
@@ -103,7 +103,7 @@ To create the environment, run:
 
 `conda env create -f environment.yml`
 
-This will create a Python 3.8 environment called **cmts_ocean_case_studies**. The environment 
+This will create a Python environment called **cmts_ocean_case_studies**. The environment 
 won't be activated by default. To activate it, run:
 
 `conda activate cmts_ocean_case_studies`
