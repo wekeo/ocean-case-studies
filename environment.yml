@@ -9,12 +9,14 @@ channels:
 dependencies:
   - conda-forge::python=3.9
   - conda-forge::notebook=6.4.12
-  - conda-forge::xarray
+  - conda-forge::xarray=2022.3.0
   - conda-forge::netcdf4
   - conda-forge::shapely
   - conda-forge::matplotlib
   - conda-forge::cartopy
   - conda-forge::jupyter_contrib_nbextensions
+  - conda-forge::motuclient
+  - conda-forge::opencv
   - cmts::hda
   - cmts::eumartools
   - eumetsat::eumdac
