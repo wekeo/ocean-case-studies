@@ -37,7 +37,7 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |item|version|licence|package info|
 |---|---|---|---|
 |python|3.9.13|PSF|https://docs.python.org/3/license.html|
-|xarray|0.21.1|Apache-2.0|https://anaconda.org/conda-forge/xarray|
+|xarray|2022.3.0|Apache-2.0|https://anaconda.org/conda-forge/xarray|
 |netcdf4|1.5.8|MIT|https://anaconda.org/conda-forge/netcdf4|
 |shapely|1.8.0|BSD-3|https://anaconda.org/conda-forge/shapely|
 |matplotlib|3.5.1|PSFL|https://matplotlib.org/stable/users/project/license.html|
@@ -54,6 +54,8 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |cmocean|2.0|MIT|https://anaconda.org/conda-forge/cmocean|
 |eumdac|1.0.0|MIT|https://anaconda.org/eumetsat/eumdac|
 |coecms|0.8.0|Apache-2.0|https://anaconda.org/coecms/xmhw|
+|motuclient|1.8.8|LGPL-3|https://anaconda.org/conda-forge/motuclient|
+|opencv|4.6.0|BSD-3|https://anaconda.org/conda-forge/opencv|
 
 ## Installation
 
