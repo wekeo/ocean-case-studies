@@ -17,7 +17,12 @@ dependencies:
   - conda-forge::jupyter_contrib_nbextensions
   - conda-forge::motuclient
   - conda-forge::opencv
+  - conda-forge::requests
+  - conda-forge::beautifulsoup4
+  - conda-forge::owslib
   - cmts::hda
   - cmts::eumartools
   - eumetsat::eumdac
   - coecms::xmhw
+  - conda-forge::pip
+
