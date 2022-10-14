@@ -28,10 +28,11 @@ wheels/
 # Large data
 *.nc
 *.zip
-Case_studies/*.png
-**/products
-**/outputs
-**/precomputed
+*.mp4
+Case_studies/**/*.png
+**/products*
+**/output*
+**/precomputed*
 
 # OSx junk
 *DS_Store*
