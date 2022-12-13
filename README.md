@@ -58,11 +58,14 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |hda|0.2.2|Apache-2.0|https://pypi.org/project/hda/|
 |eumartools|0.0.1|MIT|https://anaconda.org/cmts/eumartools|
 |ipykernel|6.4.1|BSD-3|https://anaconda.org/conda-forge/ipykernel|
-|cmocean|2.0|MIT|https://anaconda.org/conda-forge/cmocean|
 |eumdac|1.0.0|MIT|https://anaconda.org/eumetsat/eumdac|
-|coecms|0.8.0|Apache-2.0|https://anaconda.org/coecms/xmhw|
+|xmhw|0.8.0|Apache-2.0|https://anaconda.org/coecms/xmhw|
 |motuclient|1.8.8|LGPL-3|https://anaconda.org/conda-forge/motuclient|
 |opencv|4.6.0|BSD-3|https://anaconda.org/conda-forge/opencv|
+|owslib|0.27.2|BSD-3|https://anaconda.org/conda-forge/owslib|
+|beautifulsoup4|4.11.1|MIT|https://anaconda.org/conda-forge/beautifulsoup4|
+|requests|2.28.1|Apache-2.0|https://anaconda.org/conda-forge/requests|
+
 
 ## Installation
 
