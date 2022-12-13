@@ -24,5 +24,3 @@ dependencies:
   - cmts::eumartools
   - eumetsat::eumdac
   - coecms::xmhw
-  - conda-forge::pip
-
