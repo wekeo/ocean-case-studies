@@ -16,9 +16,9 @@ For any questions about this repository, please contact ops@eumetsat.int.
 
 ## License
  
-This code is licensed under an MIT license. See file LICENCE.txt for details on 
+This code is licensed under an MIT license. See file LICENSE.txt for details on 
 the usage and distribution terms. No dependencies are distributed as part of this 
-package.
+package. Copyright EUMETSAT 2023.
 
 All product names, logos, and brands are property of their respective owners. 
 All company, product and service names used in this website are for identification 
@@ -55,7 +55,7 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |scikit-image|0.19.1|BSD-3|https://anaconda.org/conda-forge/scikit-image|
 |plotly|5.6.0|MIT|https://anaconda.org/conda-forge/plotly|
 |bokeh|2.4.2|BSD-3|https://anaconda.org/conda-forge/bokeh|
-|hda|0.2.2|Apache-2.0|https://pypi.org/project/hda/|
+|hda|0.3.7|Apache-2.0|https://pypi.org/project/hda/|
 |eumartools|0.0.1|MIT|https://anaconda.org/cmts/eumartools|
 |ipykernel|6.4.1|BSD-3|https://anaconda.org/conda-forge/ipykernel|
 |eumdac|1.0.0|MIT|https://anaconda.org/eumetsat/eumdac|

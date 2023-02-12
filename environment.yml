@@ -1,4 +1,4 @@
-# copyright: 2022 EUMETSAT
+# copyright: 2023 EUMETSAT
 # license: LICENSE.txt
 name: cmts_ocean_case_studies
 channels:
@@ -20,7 +20,7 @@ dependencies:
   - conda-forge::requests
   - conda-forge::beautifulsoup4
   - conda-forge::owslib
-  - cmts::hda
+  - cmts::hda=0.3.7
   - cmts::eumartools
   - eumetsat::eumdac
   - coecms::xmhw
