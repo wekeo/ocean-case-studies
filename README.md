@@ -31,6 +31,7 @@ purposes only.
 * [**Aida Alvera-Azcárate**](mailto://ops@eumetsat.int) - [EUMETSAT](http://www.eumetsat.int)
 * [**Charles Troupin**](mailto://ops@eumetsat.int) - [EUMETSAT](http://www.eumetsat.int)
 * [**Vinca Rosmorduc**](mailto://ops@eumetsat.int) - [EUMETSAT](http://www.eumetsat.int)
+* [**Marie Smith**](mailto://ops@eumetsat.int) - [CSIR](https://www.csir.co.za/)
 
 Please see the AUTHORS.txt file for more information.
 
