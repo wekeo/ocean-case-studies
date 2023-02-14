@@ -28,7 +28,6 @@ wheels/
 # Large data
 *.nc
 *.zip
-*.mp4
 Case_studies/**/*.png
 **/products*
 **/output*
