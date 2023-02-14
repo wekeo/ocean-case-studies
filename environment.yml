@@ -15,7 +15,6 @@ dependencies:
   - conda-forge::matplotlib
   - conda-forge::cartopy
   - conda-forge::jupyter_contrib_nbextensions
-  - conda-forge::motuclient
   - conda-forge::opencv
   - conda-forge::requests
   - conda-forge::beautifulsoup4
@@ -24,3 +23,6 @@ dependencies:
   - cmts::eumartools
   - eumetsat::eumdac
   - coecms::xmhw=0.8.0
+  - pip
+  - pip:
+    - wust
