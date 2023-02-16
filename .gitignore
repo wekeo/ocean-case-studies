@@ -28,10 +28,14 @@ wheels/
 # Large data
 *.nc
 *.zip
-Case_studies/**/*.png
 **/products*
 **/output*
-**/precomputed*
+Case_studies/**/*.png
+
+# Keep files for Challenge02
+!OSTIA_SST.nc
+!S3A_SL_2_WST____20211222T123736_20211222T141835_20211223T225541_6059_080_066______MAR_O_NT_003_subset.nc
+!S3B_SL_2_WST____20211222T115815_20211222T133915_20211223T224804_6059_060_308______MAR_O_NT_003_subset.nc
 
 # OSx junk
 *DS_Store*
