@@ -9,7 +9,7 @@ channels:
 dependencies:
   - conda-forge::python=3.9
   - conda-forge::notebook=6.4.12
-  - conda-forge::xarray=2022.3.0
+  - conda-forge::xarray
   - conda-forge::netcdf4
   - conda-forge::shapely
   - conda-forge::matplotlib
@@ -22,7 +22,7 @@ dependencies:
   - cmts::hda=1.1
   - cmts::eumartools
   - eumetsat::eumdac
-  - coecms::xmhw=0.8.0
+  - coecms::xmhw
   - pip
   - pip:
     - wust
