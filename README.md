@@ -51,8 +51,7 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |shapely|1.8.0|BSD-3|https://anaconda.org/conda-forge/shapely|
 |matplotlib|3.5.1|PSFL|https://matplotlib.org/stable/users/project/license.html|
 |cartopy|0.20.2|LGPL-3|https://scitools.org.uk/cartopy/docs/latest/copyright.html|
-|notebook|6.4.12|BSD-3|https://anaconda.org/conda-forge/notebook|
-|jupyter_contrib_nbextensions|0.5.1|BSD-3|https://anaconda.org/conda-forge/jupyter_contrib_nbextensions|
+|jupyterlab|3.4.4|BSD-3|https://anaconda.org/conda-forge/jupyterlab|
 |ipywidgets|7.6.5|BSD-3|https://anaconda.org/conda-forge/ipywidgets|
 |scikit-image|0.19.1|BSD-3|https://anaconda.org/conda-forge/scikit-image|
 |plotly|5.6.0|MIT|https://anaconda.org/conda-forge/plotly|
@@ -67,7 +66,6 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |owslib|0.27.2|BSD-3|https://anaconda.org/conda-forge/owslib|
 |beautifulsoup4|4.11.1|MIT|https://anaconda.org/conda-forge/beautifulsoup4|
 |requests|2.28.1|Apache-2.0|https://anaconda.org/conda-forge/requests|
-
 
 ## Installation
 
@@ -135,19 +133,11 @@ before, please look at the [Introduction to Python and Project Jupyter](./workin
 To to run Jupyter Notebook, open a terminal or Anaconda prompt and make sure you have activated 
 the correct environment. Again, navigate to the repository folder.
 
-If you are running this code for the first time in this environment, you need to enable two
-`extensions` to Jupyter by running the following commands.
-
-`jupyter nbextension enable --py widgetsnbextension` \
-`jupyter nbextension enable exercise2/main`
-
-*Note: you can also enable these in the **Nbextensions** tab of the Jupyter browser window* 
-
 Now you can run Jupyter using:
 
-`jupyter notebook`
+`jupyter lab`
 
-This should open Jupyter Notebooks in a browser window. On occasion, Jupyter may not
+This should open Jupyter Lab in a browser window. On occasion, Jupyter may not
 be able to open a window and will give you a URL to past in your browser. Please do
 so, if required.
 
