@@ -32,10 +32,15 @@ wheels/
 **/output*
 Case_studies/**/*.png
 
-# Keep files for Challenge02
+# Keep files for specific case studies
+# UNOD Challenge02
 !OSTIA_SST.nc
 !S3A_SL_2_WST____20211222T123736_20211222T141835_20211223T225541_6059_080_066______MAR_O_NT_003_subset.nc
 !S3B_SL_2_WST____20211222T115815_20211222T133915_20211223T224804_6059_060_308______MAR_O_NT_003_subset.nc
+# UNOD Challenge06
+!SWH_animation_FREDDY.mp4
+# Altimetry topo
+!s1a-iw-owi-cm-20230118t055303-20230118t055508-000003-046834_gs.nc
 
 # OSx junk
 *DS_Store*
