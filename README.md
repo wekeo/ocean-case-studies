@@ -146,3 +146,32 @@ tree, and you will unable to navigate to these. So make sure you run the line ab
 from the correct directory!*
 
 Now you can run the notebooks! We recommend you start with the [Index](./Index.ipynb) module.
+
+### Collaborating, contributing and issues
+
+If you would like to collaborate on a part of this code base or contribute to it 
+please contact us on copernicus.training@eumetsat.int. If you are have issues and 
+need help, or you have found something that doesn't work, then please contact us 
+at ops@eumetsat.int. We welcome your feedback!
+
+<hr>
+<hr>
+
+### Overview for advanced users
+
+**Installation:**
+
+`git clone --recurse-submodules --remote-submodules https://gitlab.eumetsat.int/eumetlab/oceans/ocean-training/applications/ocean-case-studies.git`
+
+**Create and set environment**
+
+`conda env create -f environment.yml` \
+`conda activate cmts_ocean_case_studies`
+
+**WEkEO SPECIFIC**
+
+`ipython kernel install --user --name=cmts_ocean_case_studies`
+
+**Run**
+
+`jupyter lab`
