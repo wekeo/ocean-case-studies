@@ -15,6 +15,7 @@ dependencies:
   - conda-forge::matplotlib
   - conda-forge::cartopy
   - conda-forge::ipywidgets
+  - conda-forge::jupyter_nbextensions_configurator
   - conda-forge::opencv
   - conda-forge::requests
   - conda-forge::beautifulsoup4

@@ -52,6 +52,7 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |matplotlib|3.5.1|PSFL|https://matplotlib.org/stable/users/project/license.html|
 |cartopy|0.20.2|LGPL-3|https://scitools.org.uk/cartopy/docs/latest/copyright.html|
 |jupyterlab|3.4.4|BSD-3|https://anaconda.org/conda-forge/jupyterlab|
+|jupyter_nbextensions_configurator|0.6.1|BSD-3|https://anaconda.org/conda-forge/jupyter_nbextensions_configurator|
 |ipywidgets|7.6.5|BSD-3|https://anaconda.org/conda-forge/ipywidgets|
 |scikit-image|0.19.1|BSD-3|https://anaconda.org/conda-forge/scikit-image|
 |plotly|5.6.0|MIT|https://anaconda.org/conda-forge/plotly|
