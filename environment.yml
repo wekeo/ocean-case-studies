@@ -8,13 +8,13 @@ channels:
   - coecms
 dependencies:
   - conda-forge::python=3.9
-  - conda-forge::notebook=6.4.12
+  - conda-forge::jupyterlab
   - conda-forge::xarray
   - conda-forge::netcdf4
   - conda-forge::shapely
   - conda-forge::matplotlib
   - conda-forge::cartopy
-  - conda-forge::jupyter_contrib_nbextensions
+  - conda-forge::ipywidgets
   - conda-forge::opencv
   - conda-forge::requests
   - conda-forge::beautifulsoup4
