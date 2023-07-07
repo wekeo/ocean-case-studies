@@ -22,7 +22,7 @@ dependencies:
   - conda-forge::owslib
   - cmts::hda=1.1
   - cmts::eumartools
-  - eumetsat::eumdac
+  - eumetsat::eumdac=2.0.1
   - coecms::xmhw
   - pip
   - pip:

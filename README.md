@@ -46,12 +46,12 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |item|version|licence|package info|
 |---|---|---|---|
 |python|3.9.13|PSF|https://docs.python.org/3/license.html|
+|jupyterlab|4.0.2|BSD-3|https://anaconda.org/conda-forge/jupyterlab|
 |xarray|2022.3.0|Apache-2.0|https://anaconda.org/conda-forge/xarray|
 |netcdf4|1.5.8|MIT|https://anaconda.org/conda-forge/netcdf4|
 |shapely|1.8.0|BSD-3|https://anaconda.org/conda-forge/shapely|
 |matplotlib|3.5.1|PSFL|https://matplotlib.org/stable/users/project/license.html|
 |cartopy|0.20.2|LGPL-3|https://scitools.org.uk/cartopy/docs/latest/copyright.html|
-|jupyterlab|3.4.4|BSD-3|https://anaconda.org/conda-forge/jupyterlab|
 |jupyter_nbextensions_configurator|0.6.1|BSD-3|https://anaconda.org/conda-forge/jupyter_nbextensions_configurator|
 |ipywidgets|7.6.5|BSD-3|https://anaconda.org/conda-forge/ipywidgets|
 |scikit-image|0.19.1|BSD-3|https://anaconda.org/conda-forge/scikit-image|
@@ -131,14 +131,14 @@ new window instance*
 This module is based around a series of [Jupyter Notebooks](https://jupyter.org/). These support high-level interactive learning by allowing us to combine code, text description and data visualisations. If you have not worked with `Jupyter Notebooks` 
 before, please look at the [Introduction to Python and Project Jupyter](./working-with-python/Intro_to_Python_and_Jupyter.ipynb) module to get a short introduction to their usage and benefits.
 
-To to run Jupyter Notebook, open a terminal or Anaconda prompt and make sure you have activated 
+To run Jupyter Notebook, open a terminal or Anaconda prompt and make sure you have activated 
 the correct environment. Again, navigate to the repository folder.
 
 Now you can run Jupyter using:
 
-`jupyter lab`
+`jupyter lab` or `jupyter-lab`, depending on your operating system.
 
-This should open Jupyter Lab in a browser window. On occasion, Jupyter may not
+This should open Jupyter Notebooks in a browser window. On occasion, Jupyter may not
 be able to open a window and will give you a URL to past in your browser. Please do
 so, if required.
 
@@ -175,4 +175,4 @@ at ops@eumetsat.int. We welcome your feedback!
 
 **Run**
 
-`jupyter lab`
+`jupyter lab` or `jupyter-lab`
