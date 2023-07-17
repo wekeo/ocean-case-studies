@@ -23,13 +23,15 @@ wheels/
 *.egg
 
 # Jupyter Notebook
-.ipynb_checkpoints
+**/.ipynb_checkpoints/
 
 # Large data
 *.nc
 *.zip
 **/products*
 **/output*
+
+# Figures
 Case_studies/**/*.png
 
 # Keep files for specific case studies

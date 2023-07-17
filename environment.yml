@@ -19,7 +19,12 @@ dependencies:
   - conda-forge::opencv
   - conda-forge::requests
   - conda-forge::beautifulsoup4
+  - conda-forge::lxml
+  - conda-forge::pydap>3.3.0
   - conda-forge::owslib
+  - conda-forge::bokeh
+  - conda-forge::scipy
+  - conda-forge::pandas
   - cmts::hda=1.1
   - cmts::eumartools
   - eumetsat::eumdac=2.0.1
