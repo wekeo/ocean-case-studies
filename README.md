@@ -67,6 +67,7 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |owslib|0.27.2|BSD-3|https://anaconda.org/conda-forge/owslib|
 |beautifulsoup4|4.11.1|MIT|https://anaconda.org/conda-forge/beautifulsoup4|
 |requests|2.28.1|Apache-2.0|https://anaconda.org/conda-forge/requests|
+|lxml|1.1.37|BSD-3|https://anaconda.org/conda-forge/lxml|
 
 ## Installation
 
