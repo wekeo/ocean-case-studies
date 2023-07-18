@@ -21,8 +21,7 @@ about_resource: ./Case_studies/UN_Ocean_Decade/Challenge07_expanding_the_GOOS/*
 about_resource: ./Case_studies/UN_Ocean_Decade/Challenge08_digital_representation_ocean/*
 about_resource: ./Case_studies/UN_Ocean_Decade/Challenge09_skills_knowledge_tech_for_all/*
 about_resource: ./Case_studies/UN_Ocean_Decade/Challenge10_change_relationship_with_ocean/*
-about_resource: ./Case_studies/Ocean_phenomena/Basin_scale_variability/Atlantic_Med_MHW_2023/*
-about_resource: ./Case_studies/Ocean_phenomena/Basin_scale_variability/Atlantic_Med_SST_anomalies_2023/*
+about_resource: ./Case_studies/Ocean_phenomena/Basin_scale_variability/Atlantic_Med_SST_anomalies_MHW_2023/*
 about_resource: ./Case_studies/Ocean_phenomena/Coastal_processes/Linking_land_topography_with_altimetry_swh/*
 about_resource: ./Case_studies/Ocean_phenomena/Ocean_dynamics/Western_boundary_currents/Agulhas_variabilty_biophysical_interactions/*
 about_resource: ./Case_studies/Ocean_phenomena/Ocean_dynamics/Mesoscale_variability/Mesoscale_variability_in_the_Alboran_Gyre/*
