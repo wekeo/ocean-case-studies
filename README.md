@@ -45,29 +45,31 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 
 |item|version|licence|package info|
 |---|---|---|---|
-|python|3.9.13|PSF|https://docs.python.org/3/license.html|
-|jupyterlab|4.0.2|BSD-3|https://anaconda.org/conda-forge/jupyterlab|
-|xarray|2022.3.0|Apache-2.0|https://anaconda.org/conda-forge/xarray|
-|netcdf4|1.5.8|MIT|https://anaconda.org/conda-forge/netcdf4|
-|shapely|1.8.0|BSD-3|https://anaconda.org/conda-forge/shapely|
-|matplotlib|3.5.1|PSFL|https://matplotlib.org/stable/users/project/license.html|
-|cartopy|0.20.2|LGPL-3|https://scitools.org.uk/cartopy/docs/latest/copyright.html|
-|jupyter_nbextensions_configurator|0.6.1|BSD-3|https://anaconda.org/conda-forge/jupyter_nbextensions_configurator|
-|ipywidgets|7.6.5|BSD-3|https://anaconda.org/conda-forge/ipywidgets|
-|scikit-image|0.19.1|BSD-3|https://anaconda.org/conda-forge/scikit-image|
-|plotly|5.6.0|MIT|https://anaconda.org/conda-forge/plotly|
-|bokeh|2.4.2|BSD-3|https://anaconda.org/conda-forge/bokeh|
-|hda|0.3.7|Apache-2.0|https://pypi.org/project/hda/|
-|eumartools|0.0.1|MIT|https://anaconda.org/cmts/eumartools|
-|ipykernel|6.4.1|BSD-3|https://anaconda.org/conda-forge/ipykernel|
-|eumdac|1.0.0|MIT|https://anaconda.org/eumetsat/eumdac|
-|xmhw|0.8.0|Apache-2.0|https://anaconda.org/coecms/xmhw|
-|motuclient|1.8.8|LGPL-3|https://anaconda.org/conda-forge/motuclient|
+|python|3.9.16|PSF|https://docs.python.org/3/license.html|
+|jupyterlab|4.0.3|BSD-3|https://anaconda.org/conda-forge/jupyterlab|
+|xarray|2023.7.0|Apache-2.0|https://anaconda.org/conda-forge/xarray|
+|dask|2023.7.1|BSD-3|https://anaconda.org/conda-forge/dask|
+|netcdf4|1.6.4|MIT|https://anaconda.org/conda-forge/netcdf4|
+|shapely|2.0.1|BSD-3|https://anaconda.org/conda-forge/shapely|
+|matplotlib|3.7.2|PSFL|https://matplotlib.org/stable/users/project/license.html|
+|cartopy|0.21.1|LGPL-3|https://scitools.org.uk/cartopy/docs/latest/copyright.html|
+|ipywidgets|8.1.0|BSD-3|https://anaconda.org/conda-forge/ipywidgets|
 |opencv|4.6.0|BSD-3|https://anaconda.org/conda-forge/opencv|
-|owslib|0.27.2|BSD-3|https://anaconda.org/conda-forge/owslib|
-|beautifulsoup4|4.11.1|MIT|https://anaconda.org/conda-forge/beautifulsoup4|
 |requests|2.28.1|Apache-2.0|https://anaconda.org/conda-forge/requests|
+|beautifulsoup4|4.11.1|MIT|https://anaconda.org/conda-forge/beautifulsoup4|
 |lxml|1.1.37|BSD-3|https://anaconda.org/conda-forge/lxml|
+|pydap|3.4.0|MIT|https://anaconda.org/conda-forge/pydap|
+|owslib|0.29.2|BSD-3|https://anaconda.org/conda-forge/owslib|
+|bokeh|3.2.1|BSD-3|https://anaconda.org/conda-forge/bokeh|
+|ipykernel|6.25.0|BSD-3|https://anaconda.org/conda-forge/ipykernel|
+|scipy|1.11.1|BSD-3|https://anaconda.org/conda-forge/scipy|
+|pandas|2.0.3|BSD-3|https://anaconda.org/conda-forge/pandas|
+|hda|1.15|Apache-2.0|https://pypi.org/project/hda|
+|eumartools|0.0.1|MIT|https://anaconda.org/cmts/eumartools|
+|eumdac|2.0.1|MIT|https://anaconda.org/eumetsat/eumdac|
+|xmhw|0.9.3|Apache-2.0|https://anaconda.org/coecms/xmhw|
+|pip|23.2.1|MIT|https://anaconda.org/conda-forge/pip|
+|wust|0.1.10|MIT|https://pypi.org/project/wust/|
 
 ## Installation
 

@@ -10,12 +10,12 @@ dependencies:
   - conda-forge::python=3.9
   - conda-forge::jupyterlab
   - conda-forge::xarray
+  - conda-forge::dask
   - conda-forge::netcdf4
   - conda-forge::shapely
   - conda-forge::matplotlib
   - conda-forge::cartopy
   - conda-forge::ipywidgets
-  - conda-forge::jupyter_nbextensions_configurator
   - conda-forge::opencv
   - conda-forge::requests
   - conda-forge::beautifulsoup4
@@ -23,9 +23,10 @@ dependencies:
   - conda-forge::pydap>3.3.0
   - conda-forge::owslib
   - conda-forge::bokeh
+  - conda-forge::ipykernel
   - conda-forge::scipy
   - conda-forge::pandas
-  - cmts::hda=1.1
+  - cmts::hda=1.15
   - cmts::eumartools
   - eumetsat::eumdac=2.0.1
   - coecms::xmhw
