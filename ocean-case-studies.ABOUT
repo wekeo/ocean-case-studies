@@ -51,3 +51,8 @@ The images contained in the ./img/thumbs folder are generated using the
 matplotlib tool. The matplotlib tool does not extend its license/copyright to 
 figures produced by the package. The figures are covered by the package IPR
 documentation as specified in the license text file.
+
+The copyright for ./img/Hobday_MHW.png resides with Oceanography, Volume 31,
+Number 2. It is available for reproduction and sitribution under a creative
+commons licence as specified at https://doi.org/10.5670/oceanog.2018.205. It is
+fully attributed in text, where used.
