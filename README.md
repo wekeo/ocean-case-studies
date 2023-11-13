@@ -115,9 +115,15 @@ in the **Installation** section above. In this folder there is a file called
 **environment.yml**. This contains all the information we need to install the relevant 
 packages.
 
-To create the environment, run:
+The conda package manager can be very slow, so we will install a new "solver" that 
+speeds things up. To do this, from the Anaconda prompt (Windows) or in the terminal (OSx/Linux) 
+you can run:
 
-`conda env create -f environment.yml`
+`conda install -n base conda-libmamba-solver`
+
+Once the line above is run, to create out Python environment, we run:
+
+`conda env create -f environment.yml --solver=libmamba`
 
 This will create a Python environment called **cmts_ocean_case_studies**. The environment 
 won't be activated by default. To activate it, run:
@@ -129,15 +135,16 @@ Now you are ready to go!
 *Note: remember that you may need to reactivate the environment in every 
 new window instance*
 
+*Note: if you get a warning that "solver" is not a valid conda argument, you can 
+skip the libmamba install and run:* `conda env create -f environment.yml`
+
 ### Running Jupyter Notebook
 
 This module is based around a series of [Jupyter Notebooks](https://jupyter.org/). These support high-level interactive learning by allowing us to combine code, text description and data visualisations. If you have not worked with `Jupyter Notebooks` 
 before, please look at the [Introduction to Python and Project Jupyter](./working-with-python/Intro_to_Python_and_Jupyter.ipynb) module to get a short introduction to their usage and benefits.
 
 To run Jupyter Notebook, open a terminal or Anaconda prompt and make sure you have activated 
-the correct environment. Again, navigate to the repository folder.
-
-Now you can run Jupyter using:
+the correct environment. Again, navigate to the repository folder. Now you can run Jupyter using:
 
 `jupyter lab` or `jupyter-lab`, depending on your operating system.
 
@@ -160,22 +167,3 @@ at ops@eumetsat.int. We welcome your feedback!
 
 <hr>
 <hr>
-
-### Overview for advanced users
-
-**Installation:**
-
-`git clone --recurse-submodules --remote-submodules https://gitlab.eumetsat.int/eumetlab/oceans/ocean-training/applications/ocean-case-studies.git`
-
-**Create and set environment**
-
-`conda env create -f environment.yml` \
-`conda activate cmts_ocean_case_studies`
-
-**WEkEO SPECIFIC**
-
-`ipython kernel install --user --name=cmts_ocean_case_studies`
-
-**Run**
-
-`jupyter lab` or `jupyter-lab`
