@@ -22,7 +22,7 @@ dependencies:
   - conda-forge::lxml
   - conda-forge::pydap>3.3.0
   - conda-forge::owslib
-  - conda-forge::bokeh
+  - conda-forge::bokeh=3.2.1
   - conda-forge::ipykernel
   - conda-forge::scipy
   - conda-forge::pandas
