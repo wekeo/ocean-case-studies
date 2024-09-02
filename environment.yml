@@ -36,4 +36,4 @@ dependencies:
   - conda-forge::schedule
   - conda-forge::scikit-image
   - conda-forge::shapely
-  - conda-forge::xcube
+  - conda-forge::xcube=1.5

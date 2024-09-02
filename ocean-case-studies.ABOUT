@@ -55,20 +55,20 @@ about_resource: ./img/Waveforms.png
 about_resource: ./img/WEkEO_show_api_SLSTR.png
 about_resource: ./img/thumbs/Algal_blooms_baltic_2023_thumb.png
 about_resource: ./img/thumbs/Altimetry_orbit_cycle_selection_thumb.png
-about_resource: ./img/thumbs/Atlantic_Med_SST_anomalies_2023_thumb.png
+about_resource: ./img/thumbs/Atlantic_Med_SST_anomalies_thumb.png
 about_resource: ./img/thumbs/Automated_downloads_thumb.png
 about_resource: ./img/thumbs/Cruise_tracker_thumb.png
-about_resource: ./img/thumbs/Deoxygenation_benguela.png
+about_resource: ./img/thumbs/Deoxygenation_benguela_thumb.png
 about_resource: ./img/thumbs/ENSO_altimetry_hovmoller_thumb.png
 about_resource: ./img/thumbs/Index_thumb.png
 about_resource: ./img/thumbs/Land_altimetry_SWH_thumb.png
-about_resource: ./img/thumbs/Med_MHW_2023_thumb.png
 about_resource: ./img/thumbs/MHW_intensification_coral_reef_health_thumb.png
+about_resource: ./img/thumbs/Med_MHW_thumb.png
 about_resource: ./img/thumbs/Pan_collection_cubes_thumb.png
 about_resource: ./img/thumbs/Quantifying_PIC_POC_thumb.png
+about_resource: ./img/thumbs/SLR_with_S6_thumb.png
 about_resource: ./img/thumbs/SWH_storms_2023_thumb.png
 about_resource: ./img/thumbs/Tropical_cyclones_altimetry_thumb.png
-
 about_resource: ./CHANGELOG
 about_resource: ./CONTRIBUTING.md
 about_resource: ./AUTHORS.txt
