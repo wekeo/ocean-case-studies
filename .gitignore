@@ -30,6 +30,7 @@ wheels/
 *.zip
 **/products*
 **/output*
+**/cruise_products*
 
 # Figures
 Case_studies/**/*.png
@@ -45,6 +46,8 @@ Case_studies/**/*.png
 !SWH_animation_FREDDY.mp4
 # Altimetry topo
 !s1a-iw-owi-cm-20230118t055303-20230118t055508-000003-046834_gs.nc
+# Water quality
+!S3B_OL_1_EFR____20220703T093100_20220703T093400_20220704T142637_0179_067_364_1980_MAR_O_NT_002_MPH.nc
 
 # OSx junk
 *DS_Store*
