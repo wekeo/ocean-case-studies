@@ -1,1 +1,0 @@
-New notebook coming shortly!

@@ -1,40 +1,74 @@
 # Component information
 name: ocean-case-studies
 description: Compendium of case studies using EUMETSAT marine data
-copyright: 2023 EUMETSAT
+copyright: 2024 EUMETSAT
 license_spdx: MIT
-date: 01-01-2023
+date: 01-03-2024
 home_url: https://gitlab.eumetsat.int/eumetlab/ocean/applications/ocean-case-studies
 
 # Package IPR documentation
 license_text_file: LICENSE.txt
  
 # File(s) associated to this component
-
-about_resource: ./Case_studies/UN_Ocean_Decade/Challenge01_understand_beat_marine_pollution/*
-about_resource: ./Case_studies/UN_Ocean_Decade/Challenge02_ecosystems_and_biodiversity/*.
-about_resource: ./Case_studies/UN_Ocean_Decade/Challenge03_sustainable_food/*
-about_resource: ./Case_studies/UN_Ocean_Decade/Challenge04_sustainable_equitable_ocean_economy/*
-about_resource: ./Case_studies/UN_Ocean_Decade/Challenge05_ocean_solutions_climate_change/*
-about_resource: ./Case_studies/UN_Ocean_Decade/Challenge06_community_resilience_ocean_hazards/*
-about_resource: ./Case_studies/UN_Ocean_Decade/Challenge07_expanding_the_GOOS/*
-about_resource: ./Case_studies/UN_Ocean_Decade/Challenge08_digital_representation_ocean/*
-about_resource: ./Case_studies/UN_Ocean_Decade/Challenge09_skills_knowledge_tech_for_all/*
-about_resource: ./Case_studies/UN_Ocean_Decade/Challenge10_change_relationship_with_ocean/*
-about_resource: ./Case_studies/Ocean_phenomena/Basin_scale_variability/Atlantic_Med_SST_anomalies_MHW_2023/*
-about_resource: ./Case_studies/Ocean_phenomena/Coastal_processes/Linking_land_topography_with_altimetry_swh/*
-about_resource: ./Case_studies/Ocean_phenomena/Ocean_dynamics/Western_boundary_currents/Agulhas_variabilty_biophysical_interactions/*
-about_resource: ./Case_studies/Ocean_phenomena/Ocean_dynamics/Mesoscale_variability/Mesoscale_variability_in_the_Alboran_Gyre/*
-about_resource: ./img/thumbs/Deoxygenation_impacts_marine_life_benguela_thumb.png
-about_resource: ./img/thumbs/Linking_land_topography_with_altimetry_swh_thumb.png
-about_resource: ./img/thumbs/Marine_heatwaves_intensification_threatens_coral_reef_health_thumb.png
-about_resource: ./img/thumbs/Quantifying_particulate_organic_and_inorganic_carbon_in_the_ocean_thumb.png
-about_resource: ./img/thumbs/Tracking_tropical_cyclone_impacts_using_altimetry_thumb.png
-about_resource: ./img/thumbs/Atlantic_Med_SST_anomalies_2023_thumb.png
-about_resource: ./img/thumbs/Med_MHW_2023_thumb.png
+about_resource: ./Case_studies/Acq_syn/Altimetry_cycles_orbits/Altimetry_orbit_cycle_selection.ipynb
+about_resource: ./Case_studies/Acq_syn/Automated_downloads/Automated_downloads.ipynb
+about_resource: ./Case_studies/Acq_syn/Cruise_tracks/Cruise_tracker.ipynb
+about_resource: ./Case_studies/Acq_syn/Cruise_tracks/Cruise_tracker.py
+about_resource: ./Case_studies/Acq_syn/Cruise_tracks/PS135_2_link-to-mastertrack.tab
+about_resource: ./Case_studies/Acq_syn/Cruise_tracks/config.ini
+about_resource: ./Case_studies/Acq_syn/Data_cubes/Pan_collection_cubes.ipynb
+about_resource: ./Case_studies/CSM_cryosphere/Coming_soon.md
+about_resource: ./Case_studies/CSM_ocean/Atl_Med_anomalies/Atlantic_Med_SST_anomalies.ipynb
+about_resource: ./Case_studies/CSM_ocean/Med_MHW_2023/Med_MHW_2023.ipynb
+about_resource: ./Case_studies/Maritime_safety/Extreme_waves/SWH_storms_2023.ipynb
+about_resource: ./Case_studies/Maritime_safety/Extreme_waves/North_Atlantic_Storms.mp4
+about_resource: ./Case_studies/Maritime_safety/Topography_SWH/Land_altimetry_SWH.ipynb
+about_resource: ./Case_studies/Maritime_safety/Topography_SWH/precomputed/s1a-iw-owi-cm-20230118t055303-20230118t055508-000003-046834_gs.nc
+about_resource: ./Case_studies/Ocean_biogeochemistry/Coming_soon.md
+about_resource: ./Case_studies/Ocean_dynamics/Agulhas_biophysical/Coming_soon.md
+about_resource: ./Case_studies/Ocean_dynamics/Alboran_gyre_variability/Coming_soon.md
+about_resource: ./Case_studies/UNOD/Ch01/
+about_resource: ./Case_studies/UNOD/Ch02/MHW_reefs/MHW_intensification_coral_reef_health.ipynb
+about_resource: ./Case_studies/UNOD/Ch03/Deoxygenation_benguela/Deoxygenation_benguela.ipynb
+about_resource: ./Case_studies/UNOD/Ch04/
+about_resource: ./Case_studies/UNOD/Ch05/ENSO_evolution_2023/ENSO_altimetry_hovmoller.ipynb
+about_resource: ./Case_studies/UNOD/Ch05/Quantifying_PIC_POC/Quantifying_PIC_POC.ipynb
+about_resource: ./Case_studies/UNOD/Ch05/Quantifying_PIC_POC/precomputed/S3B_OLCI_EFR_20220713T100610_L2_OC_reduced.nc
+about_resource: ./Case_studies/UNOD/Ch06/Tropical_cyclones_altimetry/Tropical_cyclones_altimetry.ipynb
+about_resource: ./Case_studies/UNOD/Ch07/SLR_S6/Coming_soon.md
+about_resource: ./Case_studies/UNOD/Ch07/SLR_S6/Quantifying_sea_level_rise_with_S6.ipynb
+about_resource: ./Case_studies/UNOD/Ch08/
+about_resource: ./Case_studies/UNOD/Ch09/
+about_resource: ./Case_studies/UNOD/Ch10/
+about_resource: ./Case_studies/Water_quality/Algal_blooms/Algal_blooms_baltic_2023.ipynb
+about_resource: ./Case_studies/Water_quality/S3B_OL_1_EFR____20220703T093100_20220703T093400_20220704T142637_0179_067_364_1980_MAR_O_NT_002_MPH.nc
+about_resource: ./img/Altimetry_naming.png
+about_resource: ./img/Altimetry_orbits.png
+about_resource: ./img/Cyanobacteria_bloom.png
+about_resource: ./img/Matthews_et_al_2020.png
+about_resource: ./img/RightsLink_Printable_License.pdf
+about_resource: ./img/SNAP_MPH.png
+about_resource: ./img/TS_Panel1.png
+about_resource: ./img/TS_Panel2.png
+about_resource: ./img/TS_Panel3.png
+about_resource: ./img/Waveforms.png
 about_resource: ./img/WEkEO_show_api_SLSTR.png
-about_resource: ./img/GHRSST_SST_def.png
-about_resource: ./img/Hobday_MHW.png
+about_resource: ./img/thumbs/Algal_blooms_baltic_2023_thumb.png
+about_resource: ./img/thumbs/Altimetry_orbit_cycle_selection_thumb.png
+about_resource: ./img/thumbs/Atlantic_Med_SST_anomalies_2023_thumb.png
+about_resource: ./img/thumbs/Automated_downloads_thumb.png
+about_resource: ./img/thumbs/Cruise_tracker_thumb.png
+about_resource: ./img/thumbs/Deoxygenation_benguela.png
+about_resource: ./img/thumbs/ENSO_altimetry_hovmoller_thumb.png
+about_resource: ./img/thumbs/Index_thumb.png
+about_resource: ./img/thumbs/Land_altimetry_SWH_thumb.png
+about_resource: ./img/thumbs/Med_MHW_2023_thumb.png
+about_resource: ./img/thumbs/MHW_intensification_coral_reef_health_thumb.png
+about_resource: ./img/thumbs/Pan_collection_cubes_thumb.png
+about_resource: ./img/thumbs/Quantifying_PIC_POC_thumb.png
+about_resource: ./img/thumbs/SWH_storms_2023_thumb.png
+about_resource: ./img/thumbs/Tropical_cyclones_altimetry_thumb.png
+
 about_resource: ./CHANGELOG
 about_resource: ./CONTRIBUTING.md
 about_resource: ./AUTHORS.txt
@@ -52,7 +86,8 @@ matplotlib tool. The matplotlib tool does not extend its license/copyright to
 figures produced by the package. The figures are covered by the package IPR
 documentation as specified in the license text file.
 
-The copyright for ./img/Hobday_MHW.png resides with Oceanography, Volume 31,
-Number 2. It is available for reproduction and sitribution under a creative
-commons licence as specified at https://doi.org/10.5670/oceanog.2018.205. It is
-fully attributed in text, where used.
+./img/Matthews_et_al_2020.png is "Reprinted from Remote Sensing of Environment,
+248, Matthews et al., Distinguishing cyanobacteria from algae in optically
+complex inland waters using a hyperspectral radiative transfer inversion
+algorithm, 111981, Copyright (2024), with permission from Elsevier".
+See ./img/RightsLink_Printable_License.pdf for full license conditions.
