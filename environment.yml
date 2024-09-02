@@ -1,4 +1,4 @@
-# copyright: 2023 EUMETSAT
+# copyright: 2024 EUMETSAT
 # license: LICENSE.txt
 name: cmts_ocean_case_studies
 channels:
@@ -7,29 +7,33 @@ channels:
   - eumetsat
   - coecms
 dependencies:
-  - conda-forge::python=3.9
-  - conda-forge::jupyterlab
-  - conda-forge::xarray
-  - conda-forge::dask
-  - conda-forge::netcdf4
-  - conda-forge::shapely
-  - conda-forge::matplotlib
-  - conda-forge::cartopy
-  - conda-forge::ipywidgets
-  - conda-forge::opencv
-  - conda-forge::requests
-  - conda-forge::beautifulsoup4
-  - conda-forge::lxml
-  - conda-forge::pydap>3.3.0
-  - conda-forge::owslib
+  # Core
   - conda-forge::bokeh=3.2.1
-  - conda-forge::ipykernel
+  - conda-forge::cartopy
+  - conda-forge::cmocean
+  - conda-forge::dask
+  - conda-forge::distributed
+  - conda-forge::hda
+  - conda-forge::ipywidgets
+  - conda-forge::jupyterlab
+  - conda-forge::matplotlib
+  - conda-forge::netcdf4
+  - conda-forge::python=3.10
   - conda-forge::scipy
-  - conda-forge::pandas
-  - cmts::hda=1.15
+  - conda-forge::xarray
+  # External
   - cmts::eumartools
-  - eumetsat::eumdac=2.0.1
+  - eumetsat::eumdac
   - coecms::xmhw
-  - pip
-  - pip:
-    - wust
+  # Extension
+  - conda-forge::beautifulsoup4
+  - conda-forge::copernicusmarine
+  - conda-forge::lxml
+  - conda-forge::opencv
+  - conda-forge::owslib
+  - conda-forge::pandas
+  - conda-forge::requests
+  - conda-forge::schedule
+  - conda-forge::scikit-image
+  - conda-forge::shapely
+  - conda-forge::xcube
