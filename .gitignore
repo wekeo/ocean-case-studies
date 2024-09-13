@@ -48,6 +48,8 @@ Case_studies/**/*.png
 !s1a-iw-owi-cm-20230118t055303-20230118t055508-000003-046834_gs.nc
 # Water quality
 !S3B_OL_1_EFR____20220703T093100_20220703T093400_20220704T142637_0179_067_364_1980_MAR_O_NT_002_MPH.nc
+# UNOD Challenge07 S6 SLR
+!MSL_Serie_MERGED_Global_AVISO_GIA_Adjust_Filter2m.nc
 
 # OSx junk
 *DS_Store*
