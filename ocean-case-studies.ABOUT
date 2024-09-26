@@ -53,6 +53,7 @@ about_resource: ./img/TS_Panel2.png
 about_resource: ./img/TS_Panel3.png
 about_resource: ./img/Waveforms.png
 about_resource: ./img/WEkEO_show_api_SLSTR.png
+about_resource: ./img/OLL1EFR_L1B_North_Sea
 about_resource: ./img/thumbs/Algal_blooms_baltic_2023_thumb.png
 about_resource: ./img/thumbs/Altimetry_orbit_cycle_selection_thumb.png
 about_resource: ./img/thumbs/Atlantic_Med_SST_anomalies_thumb.png
@@ -69,6 +70,8 @@ about_resource: ./img/thumbs/Quantifying_PIC_POC_thumb.png
 about_resource: ./img/thumbs/SLR_with_S6_thumb.png
 about_resource: ./img/thumbs/SWH_storms_2023_thumb.png
 about_resource: ./img/thumbs/Tropical_cyclones_altimetry_thumb.png
+about_resource: ./img/thumbs/Algal_blooms_summer_2024_thumb.png
+
 about_resource: ./CHANGELOG
 about_resource: ./CONTRIBUTING.md
 about_resource: ./AUTHORS.txt
