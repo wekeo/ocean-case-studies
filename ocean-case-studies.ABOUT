@@ -1,7 +1,7 @@
 # Component information
 name: ocean-case-studies
 description: Compendium of case studies using EUMETSAT marine data
-copyright: 2024 EUMETSAT
+copyright: 2024 European Union
 license_spdx: MIT
 date: 01-03-2024
 home_url: https://gitlab.eumetsat.int/eumetlab/ocean/applications/ocean-case-studies
