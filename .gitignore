@@ -28,6 +28,7 @@ wheels/
 # Large data
 *.nc
 *.zip
+*.gz
 **/products*
 **/output*
 **/cruise_products*

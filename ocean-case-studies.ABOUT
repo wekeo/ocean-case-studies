@@ -24,6 +24,7 @@ about_resource: ./Case_studies/Maritime_safety/Extreme_waves/SWH_storms_2023.ipy
 about_resource: ./Case_studies/Maritime_safety/Extreme_waves/North_Atlantic_Storms.mp4
 about_resource: ./Case_studies/Maritime_safety/Topography_SWH/Land_altimetry_SWH.ipynb
 about_resource: ./Case_studies/Maritime_safety/Topography_SWH/precomputed/s1a-iw-owi-cm-20230118t055303-20230118t055508-000003-046834_gs.nc
+about_resource: ./Case_studies/Maritime_safety/Cyclone_intensification/Tropical_cyclones_intensification.ipynb
 about_resource: ./Case_studies/Ocean_biogeochemistry/Coming_soon.md
 about_resource: ./Case_studies/Ocean_dynamics/Agulhas_biophysical/Coming_soon.md
 about_resource: ./Case_studies/Ocean_dynamics/Alboran_gyre_variability/Coming_soon.md
