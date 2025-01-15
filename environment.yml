@@ -13,7 +13,6 @@ dependencies:
   - conda-forge::cmocean
   - conda-forge::dask
   - conda-forge::distributed
-  - conda-forge::hda
   - conda-forge::ipywidgets
   - conda-forge::jupyterlab
   - conda-forge::matplotlib
@@ -38,3 +37,7 @@ dependencies:
   - conda-forge::shapely
   - conda-forge::xcube=1.5
   - conda-forge::py6s
+  - pip
+  - pip:
+    - eocanvas
+    - hda
