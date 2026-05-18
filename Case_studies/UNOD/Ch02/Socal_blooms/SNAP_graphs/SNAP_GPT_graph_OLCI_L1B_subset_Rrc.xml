@@ -1,0 +1,49 @@
+<graph id="Graph">
+  <version>1.0</version>
+
+    <node id="Read">
+        <operator>Read</operator>
+        <sources/>
+        <parameters>
+          <useAdvancedOptions>false</useAdvancedOptions>
+          <file>$img1</file>
+          <copyMetadata>true</copyMetadata>
+        </parameters>
+    </node>
+    
+    <node id="Subset">
+        <operator>Subset</operator>
+        <sources>
+          <sourceProduct refid="Read"/>
+        </sources>
+        <parameters>
+            <region>0,0,0,0</region>
+            <geoRegion>POLYGON ((-119 31.25, -116.5 31.25, -116.5 34.25, -119 34.25, -119 31.25))</geoRegion>
+            <fullSwath>false</fullSwath>
+            <copyMetadata>false</copyMetadata>
+        </parameters>
+    </node>
+    
+    <node id="RayleighCorrection">
+        <operator>RayleighCorrection</operator>
+        <sources>
+            <sourceProduct refid="Subset"/>
+        </sources>
+        <parameters>
+            <sourceBandNames>Oa09_radiance,Oa06_radiance,Oa02_radiance</sourceBandNames>
+            <computeRBrr>true</computeRBrr>
+        </parameters>
+    </node>
+    
+    <node id="Write">
+        <operator>Write</operator>
+        <sources>
+          <sourceProduct refid="RayleighCorrection"/>
+        </sources>
+        <parameters>
+          <file>$output</file>
+          <formatName>netCDF4-BEAM</formatName>
+        </parameters>
+    </node>
+
+</graph>

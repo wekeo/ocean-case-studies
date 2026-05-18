@@ -1,0 +1,43 @@
+# copyright: 2024 European Union
+# license: LICENSE.txt
+name: cmts_ocean_case_studies
+channels:
+  - conda-forge
+  - cmts
+  - eumetsat
+  - coecms
+dependencies:
+  # Core
+  - conda-forge::bokeh=3.2.1
+  - conda-forge::cartopy
+  - conda-forge::cmocean
+  - conda-forge::dask
+  - conda-forge::distributed
+  - conda-forge::ipywidgets
+  - conda-forge::jupyterlab
+  - conda-forge::matplotlib
+  - conda-forge::netcdf4
+  - conda-forge::python=3.10
+  - conda-forge::scipy
+  - conda-forge::xarray
+  # External
+  - cmts::eumartools
+  - eumetsat::eumdac
+  - coecms::xmhw
+  # Extension
+  - conda-forge::beautifulsoup4
+  - conda-forge::copernicusmarine
+  - conda-forge::lxml
+  - conda-forge::opencv
+  - conda-forge::owslib
+  - conda-forge::pandas
+  - conda-forge::requests
+  - conda-forge::schedule
+  - conda-forge::scikit-image
+  - conda-forge::shapely
+  - conda-forge::xcube=1.5
+  - conda-forge::py6s
+  - pip
+  - pip:
+    - eocanvas
+    - hda

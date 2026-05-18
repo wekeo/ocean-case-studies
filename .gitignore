@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+**/.ipynb_checkpoints/
+
+# Large data
+*.nc
+*.zip
+*.gz
+*.gif
+*.mp4
+**/products*
+**/output*
+**/cruise_products*
+
+# Figures
+Case_studies/**/*.png
+
+# Keep files for specific case studies
+# UNOD Challenge02
+!OSTIA_SST.nc
+!S3A_SL_2_WST____20211222T123736_20211222T141835_20211223T225541_6059_080_066______MAR_O_NT_003_subset.nc
+!S3B_SL_2_WST____20211222T115815_20211222T133915_20211223T224804_6059_060_308______MAR_O_NT_003_subset.nc
+# UNOD Challenge05
+!S3B_OLCI_EFR_20220713T100610_L2_OC_reduced.nc
+# UNOD Challenge06
+!SWH_animation_FREDDY.mp4
+# Altimetry topo
+!s1a-iw-owi-cm-20230118t055303-20230118t055508-000003-046834_gs.nc
+# Water quality
+!S3B_OL_1_EFR____20220703T093100_20220703T093400_20220704T142637_0179_067_364_1980_MAR_O_NT_002_MPH.nc
+# UNOD Challenge07 S6 SLR
+!MSL_Serie_MERGED_Global_AVISO_GIA_Adjust_Filter6m_NRT.nc
+# Ocean dynamics
+!nrt_global_allsat_madt_fsle_20260227_20260305.nc
+!SWOT_L2_LR_SSH_Unsmoothed_046_387_20260227T222055_20260227T231221_PID0_01_trimmed.nc
+!SWOT_L3_LR_SSH_Expert_046_387_20260227T222055_20260227T231221_v3.0.nc
+
+# OSx junk
+*DS_Store*
