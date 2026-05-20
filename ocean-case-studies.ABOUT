@@ -32,7 +32,7 @@ about_resource: ./Case_studies/Ocean_dynamics/Alboran_gyre_variability/Coming_so
 about_resource: ./Case_studies/Ocean_dynamics/Multi_sensor_eddy_dynamics/Multi_sensor_eddy_dynamics_STF.ipynb
 about_resource: ./Case_studies/Ocean_dynamics/Multi_sensor_eddy_dynamics/precomputed/nrt_global_allsat_madt_fsle_20260227_20260305.nc
 about_resource: ./Case_studies/Ocean_dynamics/Multi_sensor_eddy_dynamics/precomputed/SWOT_L2_LR_SSH_Unsmoothed_046_387_20260227T222055_20260227T231221_PID0_01_trimmed.nc
-about_resource: ./Case_studies/Ocean_dynamics/Multi_sensor_eddy_dynamics/precomputed/SWOT_L3_LR_SSH_Expert_046_387_20260227T222055_20260227T231221_v3.0.nc
+about_resource: ./Case_studies/Ocean_dynamics/Multi_sensor_eddy_dynamics/precomputed/SWOT_L3_LR_SSH_Basic_046_387_20260227T222055_20260227T231221_v3.0.nc
 about_resource: ./Case_studies/UNOD/Ch01/Sargassum/Sargassum_AFAI.ipynb
 about_resource: ./Case_studies/UNOD/Ch01/Sargassum/SNAP_graphs/SNAP_GPT_graph_OLCI_L1B_subset_Rrc.xml
 about_resource: ./Case_studies/UNOD/Ch01/Sargassum/SNAP_graphs/SNAP_GPT_graph_OLCI_L2_subset_flags.xml
@@ -106,6 +106,7 @@ about_resource: ./img/thumbs/Sargassum_AFAI_thumb.png
 about_resource: ./img/thumbs/Socal_blooms_thumb.png
 about_resource: ./img/thumbs/Tropical_cyclones_altimetry_thumb.png
 about_resource: ./img/thumbs/Tropical_cyclone_intensification_thumb.png
+about_resource: ./img/thumbs/Multi_sensor_eddy_dynamics_STF_thumb.png
 about_resource: ./AUTHORS.txt
 about_resource: ./CHANGELOG
 about_resource: ./CONTRIBUTING.md
